@@ -26,6 +26,8 @@ public class Financiero {
         //Utilizamos la sentencia do while para que sea repetitivo
         do {
             //Imprimimos las opciones 
+            System.out.println("Nombres del Estudiante");
+            System.out.println("Pedro Valverde");
             System.out.println("\n--- Menú ---");
             System.out.println("1. Crear Cuenta");
             System.out.println("2. Mostrar Cuenta");
